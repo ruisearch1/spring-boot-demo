@@ -86,7 +86,7 @@
     <mysql.version>8.0.31</mysql.version>
     <hutool.version>5.4.5</hutool.version>
     <guava.version>29.0-jre</guava.version>
-    <user.agent.version>1.20</user.agent.version>
+    <user.agent.version>1.21</user.agent.version>
   </properties>
 
   <repositories>
